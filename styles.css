@@ -15,11 +15,11 @@ table {
     font-size: 0.8rem;
     letter-spacing: 1px;
 }
-user agent stylesheet
 table {
     border-collapse: separate;
     text-indent: initial;
     border-spacing: 2px;
+    width:100%
 }
 body {
     margin:0;
