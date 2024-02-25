@@ -28,7 +28,7 @@ body {
     padding-right: 50px;
     padding-top: 10px;
     padding-bottom: 10px;
-    background-image: url("./pictures/stars.jpg");
+    background-image: url("/pictures/stars.jpg");
     background-repeat: no-repeat;
     background-size; cover;
     background-attachment: fixed;
