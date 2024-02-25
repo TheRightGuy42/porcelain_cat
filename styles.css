@@ -30,7 +30,7 @@ body {
     padding-bottom: 10px;
     background-image: url("pictures/stars.JPG");
     background-repeat: no-repeat;
-    background-size; cover;
+    background-size: cover;
     background-attachment: fixed;
     font-family: helvetica;
     color: white;
