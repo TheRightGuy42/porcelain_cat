@@ -56,6 +56,10 @@ h1   {
     height:55px;
     border: none;
 }
+.hth, .htd{
+    border:none;
+    padding:0px 0px;
+}
 
 .car1 {
     width: 100%;
