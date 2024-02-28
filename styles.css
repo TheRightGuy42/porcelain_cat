@@ -99,3 +99,8 @@ h1   {
 .cart1{
     width:200px;
 }
+.carscroll{
+    scrollamount:50;
+    width:30px;
+    
+}
