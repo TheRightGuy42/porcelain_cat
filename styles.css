@@ -84,11 +84,14 @@ h1   {
 }
 .cartable{
     width:80%;
+    border:none;
     
 }
 .cartr{
     height:50%;
+    border:none;
 }
 .carth{
     width:50%;
+    border:none;
 }
